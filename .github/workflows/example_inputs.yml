@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Workflow Dispatch
+name: GHA inputs test
 
 # Controls when the workflow will run
 on:
